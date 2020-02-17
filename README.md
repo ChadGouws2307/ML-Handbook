@@ -8,4 +8,4 @@ Dimensionality reduction
 
 Clustering
 Linear Regression
-Random FOrest
+Random Forest
